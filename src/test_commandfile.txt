@@ -1,0 +1,10 @@
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\hci.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\ram.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\common\block_ram\block_ram.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\common\fifo\fifo.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\common\uart\uart.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\common\uart\uart_baud_clk.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\common\uart\uart_rx.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\common\uart\uart_tx.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\mem_ctrl.v
+D:\HardWare\CPU\RISCV-CPU-main\riscv\src\ICache.v
